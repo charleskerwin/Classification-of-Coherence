@@ -7,4 +7,4 @@ Data generation and neural network scripts for classifying the coherence of stat
 - __CNN3.py__ : Improved CNN for mixed states  
 - __CNN4.py__ : Same as __CNN3.py__, adapted slightly for a larger data set  
 - __assessment_simulation_p.py__ : Generates states used for further assessment of model
-- __assessment_p.py__ : Inference of states used for further assessment
+- __assessment_p.py__ : Inference of states used for further assessment of model
