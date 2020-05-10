@@ -1,8 +1,10 @@
 # Classification-of-Coherence
 Data generation and neural network scripts for classifying the coherence of states.
 
-_simulation_pm_final.py_ : Final simulation code  
-_ANN.py_ : ANN for pure states  
-_CNN1.py_ : CNN for pure states  
-_CNN3.py_ : Improved CNN for mixed states  
-_CNN4.py_ : Same as _CNN3.py_, adapted slightly for a larger data set  
+- __simulation_pm_final.py__ : Final simulation code  
+- __ANN.py__ : ANN for pure states  
+- __CNN1.py__ : CNN for pure states  
+- __CNN3.py__ : Improved CNN for mixed states  
+- __CNN4.py__ : Same as _CNN3.py_, adapted slightly for a larger data set  
+- __assessment_simulation_p.py__ : Generates states used for further assessment of model
+- __assessment_p.py__ : Inference of states used for further assessment
